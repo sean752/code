@@ -4,13 +4,15 @@ Python program that prints "Hello, world!".
 
 ## Run
 
-```bash
+```
+bash
 python hello.py
 ```
 
 Code
 
-```def main():
+```
+def main():
     print("Hello, world!")
 
 main()
